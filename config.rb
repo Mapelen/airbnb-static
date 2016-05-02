@@ -10,9 +10,15 @@
 # Auto-prefixing of CSS code with vendor prefix
 activate :autoprefixer
 
+
+["margaux", "julien", "julieta", "margaux2"].each do |name|
+  proxy "/flats/#{name}.html", "/flats/show.html", :locals => { :owner => name }, :ignore => true
+  end
 ###
 # Page options, layouts, aliases and proxies
 ###
+#
+
 
 # Per-page layout changes:
 #

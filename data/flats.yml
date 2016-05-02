@@ -1,0 +1,32 @@
+julien:
+  owner_name: Julien
+  picture: images/Paris.png
+  owner_picture: images/julien.jpeg
+  name: Seb's home
+  summary: Une belle chambre à Paris.
+  city: Paris, France
+  wifi: true
+margaux:
+  owner_name: Margaux
+  picture: images/Paris.png
+  owner_picture: http://unsplash.it/150/150
+  name: Margaux's home
+  summary: A beautiful flat in London
+  city: London, UK
+  wifi: true
+julieta:
+  owner_name: Julieta
+  picture: images/Paris.png
+  owner_picture: images/julien.jpeg
+  name: Julieta's home
+  summary: A beautiful flat in London
+  city: London, UK
+  wifi: true
+margaux2:
+  owner_name: Margaux2
+  picture: images/Paris.png
+  owner_picture: images/julien.jpeg
+  name: Margaux2's home
+  summary: A beautiful flat in London
+  city: London, UK
+  wifi: true
